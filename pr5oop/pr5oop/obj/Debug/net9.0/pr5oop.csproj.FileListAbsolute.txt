@@ -1,0 +1,14 @@
+C:\Users\danil\source\repos\pr5oop\pr5oop\bin\Debug\net9.0\pr5oop.exe
+C:\Users\danil\source\repos\pr5oop\pr5oop\bin\Debug\net9.0\pr5oop.deps.json
+C:\Users\danil\source\repos\pr5oop\pr5oop\bin\Debug\net9.0\pr5oop.runtimeconfig.json
+C:\Users\danil\source\repos\pr5oop\pr5oop\bin\Debug\net9.0\pr5oop.dll
+C:\Users\danil\source\repos\pr5oop\pr5oop\bin\Debug\net9.0\pr5oop.pdb
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\pr5oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\pr5oop.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\pr5oop.AssemblyInfo.cs
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\pr5oop.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\pr5oop.dll
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\refint\pr5oop.dll
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\pr5oop.pdb
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\pr5oop.genruntimeconfig.cache
+C:\Users\danil\source\repos\pr5oop\pr5oop\obj\Debug\net9.0\ref\pr5oop.dll
